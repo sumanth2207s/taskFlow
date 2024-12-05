@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "40f7411c-df78-4bb6-a81f-a2634624ad6d",
+    "title": "Workout",
+    "description": "Go to the gym for 1 hour",
+    "status": "completed",
+    "createdAt": "2024-12-05T06:09:11.125Z",
+    "updatedAt": "2024-12-05T06:09:11.125Z",
+    "deletedAt": null
+  },
+  {
+    "uuid": "a2909d32-0e51-43cf-835d-92f2671e0ecc",
+    "title": "Buy groceries",
+    "description": "Get milk, eggs, and bread",
+    "status": "completed",
+    "createdAt": "2024-12-05T06:12:23.666Z",
+    "updatedAt": "2024-12-05T06:12:23.666Z",
+    "deletedAt": null
+  }
+]
